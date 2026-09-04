@@ -1,8 +1,8 @@
 {
-  "version": "0.0.5",
-  "installer_url": "https://github.com/ccy229/Test_Assistant-Release/releases/download/v0.0.5/SVN-Tool-Setup-0.0.5.exe",
-  "size": 50916530,
-  "sha256": "EE72EF685271A41A7BD30F46DB1C4CA39231AC8A3BF22BA15AEE96600D58FF91",
-  "release_url": "https://github.com/ccy229/Test_Assistant-Release/releases/tag/v0.0.5",
-  "notes": "在设置的关于页面为检查更新入口增加常驻红点。"
+  "version": "0.0.6",
+  "installer_url": "https://github.com/ccy229/Test_Assistant-Release/releases/download/v0.0.6/SVN-Tool-Setup-0.0.6.exe",
+  "size": 50916704,
+  "sha256": "A8F041BB6B09EEA5F2F9FE05E91B34BBEDB240518F22E41C91046CAA812657F4",
+  "release_url": "https://github.com/ccy229/Test_Assistant-Release/releases/tag/v0.0.6",
+  "notes": "优化更新下载流程，增加下载进度窗口；检测到更新时在系统设置、关于和检查更新入口显示红点。"
 }
