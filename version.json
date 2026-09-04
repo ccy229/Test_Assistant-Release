@@ -1,8 +1,8 @@
 {
-  "version": "0.0.9",
-  "installer_url": "https://github.com/ccy229/Test_Assistant-Release/releases/download/v0.0.9/SVN-Tool-Setup-0.0.9.exe",
-  "size": 50919919,
-  "sha256": "97CCDCF3117028F0CDCBDC2F5326FB21972860E110FC713AB2E7A3868C05B9CA",
-  "release_url": "https://github.com/ccy229/Test_Assistant-Release/releases/tag/v0.0.9",
-  "notes": "无功能修改，用于验证从 0.0.8 自动更新、安装和重启的完整流程。"
+  "version": "0.0.10",
+  "installer_url": "https://github.com/ccy229/Test_Assistant-Release/releases/download/v0.0.10/SVN-Tool-Setup-0.0.10.exe",
+  "size": 50922269,
+  "sha256": "3622DD1E22F980DCDE5FF743C297EA7494C0175D2CE4241513DC6F53DE7F827D",
+  "release_url": "https://github.com/ccy229/Test_Assistant-Release/releases/tag/v0.0.10",
+  "notes": "优化更新下载：增加断点续传、网络超时重试和下载中断日志。"
 }
