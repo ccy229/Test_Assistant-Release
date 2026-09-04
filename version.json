@@ -1,8 +1,8 @@
 {
-  "version": "0.0.8",
-  "installer_url": "https://github.com/ccy229/Test_Assistant-Release/releases/download/v0.0.8/SVN-Tool-Setup-0.0.8.exe",
-  "size": 50916652,
-  "sha256": "9634BEC37F7A5A48370F6C2EB60520B04592AB1A5986C7668FFB497D9F762115",
-  "release_url": "https://github.com/ccy229/Test_Assistant-Release/releases/tag/v0.0.8",
-  "notes": "增加自动更新全链路诊断日志，记录确认、下载进度、校验、完成和安装器启动节点。"
+  "version": "0.0.9",
+  "installer_url": "https://github.com/ccy229/Test_Assistant-Release/releases/download/v0.0.9/SVN-Tool-Setup-0.0.9.exe",
+  "size": 50919919,
+  "sha256": "97CCDCF3117028F0CDCBDC2F5326FB21972860E110FC713AB2E7A3868C05B9CA",
+  "release_url": "https://github.com/ccy229/Test_Assistant-Release/releases/tag/v0.0.9",
+  "notes": "无功能修改，用于验证从 0.0.8 自动更新、安装和重启的完整流程。"
 }
