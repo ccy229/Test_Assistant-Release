@@ -1,8 +1,8 @@
 {
-  "version": "0.0.3",
-  "installer_url": "https://github.com/ccy229/Test_Assistant-Release/releases/download/v0.0.3/SVN.-Setup-0.0.3.exe",
-  "size": 50915007,
-  "sha256": "D2A54837D1FBF262390148158D6C42E3553D90649E0301913EEAF74AAEFD7723",
-  "release_url": "https://github.com/ccy229/Test_Assistant-Release/releases/tag/v0.0.3",
-  "notes": "新增手动检查更新按钮。"
+  "version": "0.0.4",
+  "installer_url": "https://github.com/ccy229/Test_Assistant-Release/releases/download/v0.0.4/SVN%E5%B0%8F%E5%B7%A5%E5%85%B7-Setup-0.0.4.exe",
+  "size": 50916673,
+  "sha256": "BADA46D7B6669A0ED181DEB60389E7293F96A62F9836A380CB52BC11E2A4E17B",
+  "release_url": "https://github.com/ccy229/Test_Assistant-Release/releases/tag/v0.0.4",
+  "notes": "将检查更新入口移至关于页面，发布 0.0.4。"
 }
