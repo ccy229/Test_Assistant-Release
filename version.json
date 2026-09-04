@@ -1,0 +1,8 @@
+{
+  "version": "0.0.3",
+  "installer_url": "https://github.com/ccy229/Test_Assistant-Release/releases/download/v0.0.3/SVN.-Setup-0.0.3.exe",
+  "size": 50915007,
+  "sha256": "D2A54837D1FBF262390148158D6C42E3553D90649E0301913EEAF74AAEFD7723",
+  "release_url": "https://github.com/ccy229/Test_Assistant-Release/releases/tag/v0.0.3",
+  "notes": "新增手动检查更新按钮。"
+}
