@@ -1,8 +1,8 @@
 {
-  "version": "0.0.10",
-  "installer_url": "https://github.com/ccy229/Test_Assistant-Release/releases/download/v0.0.10/SVN-Tool-Setup-0.0.10.exe",
-  "size": 50922269,
-  "sha256": "3622DD1E22F980DCDE5FF743C297EA7494C0175D2CE4241513DC6F53DE7F827D",
-  "release_url": "https://github.com/ccy229/Test_Assistant-Release/releases/tag/v0.0.10",
-  "notes": "优化更新下载：增加断点续传、网络超时重试和下载中断日志。"
+  "version": "0.0.11",
+  "installer_url": "https://github.com/ccy229/Test_Assistant-Release/releases/download/v0.0.11/SVN-Tool-Setup-0.0.11.exe",
+  "size": 50944735,
+  "sha256": "9E09538202DA0460521D5320BF29D3A512AA3940E68E213471E4EBA11006EF8C",
+  "release_url": "https://github.com/ccy229/Test_Assistant-Release/releases/tag/v0.0.11",
+  "notes": "支持 SVN 便携版差异检查，修复启动时配置搜索控件闪现问题。"
 }
